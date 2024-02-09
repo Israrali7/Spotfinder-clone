@@ -130,5 +130,63 @@ p{
     margin-top: 30px;
 }
 #heading{
-align-items: center;
+    margin-left: 450px;
+}
+#heading-2{
+    margin-left: 500px;
+}
+.second-page{
+    display: flex;
+    gap: 30px;
+}
+.cards{
+    width: 400px;
+    height: 300px;
+    margin-left: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+
+}
+#pic2{
+    box-sizing: border-box;
+    border-radius: 20px;
+    width: 400px;
+    height: 200px;
+}
+#pic1{
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+}
+#pic3{
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+}
+.btn-3{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 17px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-left: 120px;
+}
+.h{
+    text-transform: capitalize;
+    font-size: x-large;
+    margin-left: 120px;
+}
+.orange{
+    height: 600px;
+    margin: 40px;
+    color: white;
+    background-color: rgb(226,55,68);
+}
+.orange,p{
+    color: white;
+    text-align: justify;
+    text-align: center;
 }
