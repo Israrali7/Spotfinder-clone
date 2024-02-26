@@ -234,3 +234,105 @@ p{
     justify-content: space-around;
     margin-top: 2rem;
 }
+.build-card h2, .row h2{
+    color: black;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 65rem;
+}
+.card2{
+    width: 380px;
+    height: 390px;
+    margin-left: 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(182, 179, 179);
+}
+#pic{
+    width:380px ;
+    height: 180px;
+    border-radius: 10px;
+}
+.c{
+    color: black;
+    margin-left: 0px;
+}
+.card2{
+    margin: auto;
+}
+.background{
+    
+    background-image: url(https://spotfinder.app/static/media/partner.2428d0330248356fbeb7.png);
+    background-position: center;
+    background-size: cover;
+    height: 550px;
+    width: 70owh;
+    margin: 55px;
+    margin-bottom: 20px;
+    border-radius: 20px
+}
+.back-head{
+    padding-top: 150px;
+    font-size: 4rem;
+    color: #fff;
+    text-align: center;
+}
+#email{
+    width: 20rem;
+    margin-left: 33rem;
+    height: 3.5rem;    
+}
+.last{
+    background-color: #f5faff;
+    height: 200px;
+}
+#btn4{
+    background-color: red;
+    width: 5rem;
+    height: 3.5rem;
+    color: #fff;
+    outline: none;
+    border: 0px;
+
+}
+
+ /* footer */ 
+
+footer {
+    padding: 3rem ;
+}
+
+.footer-section {
+    display: flex;
+    justify-content: space-around;
+    gap: 2rem;
+}
+footer a {
+    text-decoration: none;
+}
+
+footer h3 {
+    font-size: 1.4rem;
+    color: #ec3131;
+    margin-bottom: 1rem;
+}
+
+.footer-box-1 p {
+    color: #94a3b8;
+    line-height: 20px;
+}
+
+footer a {
+    display: block;
+    margin: 1rem 1rem 2rem 0;
+    font-size: 1rem;
+    color: #94a3b8;
+}
+
+#founder {
+    font-size: 1rem;
+    color: #94a3b8;
+    text-align: center;
+    padding: 1rem;
+}
